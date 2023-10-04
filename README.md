@@ -25,6 +25,8 @@ Part 6: RL with human feedback
 
 https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/9_rlhf/RLHF_locally.ipynb
 
+https://www.youtube.com/watch?v=An-ha4YzxXo
+
 Part 7: Deploying a foundation model
 
 https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/nlp/realtime/llm/bloom_176b/djl_deepspeed_deploy.ipynb
