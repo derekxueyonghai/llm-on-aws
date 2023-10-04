@@ -13,6 +13,8 @@ Part 3:
 
 https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/domain-adaption-finetuning-gpt-j-6b.ipynb
 
+ml.g5.12xlarge	48	192 GiB	$7.09
+
 Part 4: Pretraining a new foundation model
 
 https://github.com/aws/amazon-sagemaker-examples/blob/main/training/distributed_training/pytorch/model_parallel/gpt2/smp-train-gpt-sharded-data-parallel.ipynb
