@@ -1,0 +1,34 @@
+=========== Article 0====== 
+ "Harry Potter and the Order of the Phoenix" » . He is also due to star in a film adaptation of the play "Equus" in London's West End next year. "I'm not going to be doing this for the rest of my life," he said. "I 
+ ROUGE1: 0.02336448598130841 
+=========== Article 1====== 
+ • Judge Steven Leifman says mentally ill people often won't do what they're told when police arrive on the scene • Mentally ill people often end up on the ninth floor severely mentally disturbed, but not getting any real help because they're in jail • Leifman says about one-third 
+ ROUGE1: 0.060498220640569395 
+=========== Article 2====== 
+ Bridge collapses in Minneapolis » . "I was just trying to get out of the way of the cars that were falling on top of me," he said. "I was just trying to get out of the way of the cars that were falling on top of me. I was j 
+ ROUGE1: 0.05803571428571429 
+=========== Article 3====== 
+ Bush's colonoscopy
+posted by JimK at 11:07 AM
+I'm glad the President is okay. I'm also glad that he's getting a colonoscopy. I'm 50 and I've had two. I'm not a doctor, but I'm pretty s 
+ ROUGE1: 0.03783783783783784 
+=========== Article 4====== 
+ Vick's career » Vick admitted that he and two co-conspirators "executed approximately eight dogs that did not perform well in 'testing' sessions at [Vick's] property in Surry County, Virginia, by various methods, including hanging, drowning and slamming at least one dog' 
+ ROUGE1: 0.025735294117647058 
+=========== Article 5====== 
+ Youssif's story » ng here. The foundation's executive director, Dr. Peter Grossman, said the organization has received more than $100,000 in donations since Wednesday. "We've been inundated with calls and e-mails," Grossman said. "We've bee 
+ ROUGE1: 0.024896265560165973 
+=========== Article 6====== 
+ • Iraqi women turn to prostitution to feed their families • Women say they are too ashamed to show their faces • Some women say they are driven to prostitution by extremists • Women say they are afraid for their children's safety • Women say they are forced to prostitute themselves to feed thei 
+ ROUGE1: 0.04391891891891892 
+=========== Article 7====== 
+ FARC's 42-year insurgency »
+Colombia's FARC rebels »
+The group has been designated a terrorist organization by the United States and the European Union. The Colombian government has been fighting the FARC since 1964. The group has been responsible for thousands of dea 
+ ROUGE1: 0.03717472118959108 
+=========== Article 8====== 
+ Snow's tenure as press secretary » . "I'm going to miss him," Bush said. "I'm going to miss his sense of humor, his sense of timing, his sense of loyalty, his sense of friendship." Sno 
+ ROUGE1: 0.02702702702702703 
+=========== Article 9====== 
+ • Police and FBI agents are investigating the discovery of an empty rocket launcher tube on the front lawn of a Jersey City, New Jersey, home. • Niranjan Desai disc 
+ ROUGE1: 0.04242424242424243 
